@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+		<dict>
+			<key>icon</key>
+			<string>crystal.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kCrystalsBool</string>
+			<key>label</key>
+			<string>Enable Crystal Hack</string>
+		</dict>
+		<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>defaults</key>
+				<string>BlockheadsInventory</string>
+				<key>key</key>
+				<string>kCrystals</string>
+				<key>label</key>
+				<string>Crystal Count:</string>
+				<key>placeholder</key>
+				<string>Enter Desired Count</string>
+				<key>isNumeric</key>
+				<true/>
+				<key>noAutoCorrect</key>
+				<true/>
+		</dict>
+
+
+		<dict>
+			<key>icon</key>
+			<string>coin.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kCoins</string>
+			<key>label</key>
+			<string>Infinite Coins</string>
+		</dict>
+
+<dict>
+			<key>icon</key>
+			<string>clock.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kSpeed</string>
+			<key>label</key>
+			<string>Speed Boost</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>clock.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kDoubleTime</string>
+			<key>label</key>
+			<string>Double Time Unlocked</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>clock.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kSleep</string>
+			<key>label</key>
+			<string>Can Always Sleep</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>clock.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kMeditate</string>
+			<key>label</key>
+			<string>Can Always Meditate</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>clock.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kView</string>
+			<key>label</key>
+			<string>Crazy View Distance</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>clock.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kSolar</string>
+			<key>label</key>
+			<string>SolarPanel Always Generate</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>portal.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kTeleport</string>
+			<key>label</key>
+			<string>Can Always Teleport</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>block4.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kHD</string>
+			<key>label</key>
+			<string>HD Unlocked</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>portal.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kCraftItems</string>
+			<key>label</key>
+			<string>Max Level (Everything)</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>portal.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kDie</string>
+			<key>label</key>
+			<string>Immortality</string>
+		</dict>
+<dict>
+			<key>icon</key>
+			<string>block2.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kJetpack</string>
+			<key>label</key>
+			<string>Jetpack Fuel</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Toggle Hacks</string>
+</dict>
+</plist>

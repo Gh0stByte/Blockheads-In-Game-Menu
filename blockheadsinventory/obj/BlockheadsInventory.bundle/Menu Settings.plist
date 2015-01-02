@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>label</key>
+		<string>Credits</string>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kBOn</string>
+			<key>label</key>
+			<string>Enable In-Game Menu</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+
+		<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>default</key>
+				<string>40</string>
+				<key>defaults</key>
+				<string>BlockheadsInventory</string>
+				<key>key</key>
+				<string>kX</string>
+				<key>label</key>
+				<string>Buton x coord</string>
+				<key>placeholder</key>
+				<string>0</string>
+				<key>isNumeric</key>
+				<true/>
+				<key>noAutoCorrect</key>
+				<true/>
+		</dict>
+
+		<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>default</key>
+				<string>0</string>
+				<key>defaults</key>
+				<string>BlockheadsInventory</string>
+				<key>key</key>
+				<string>kY</string>
+				<key>label</key>
+				<string>Buton y coord</string>
+				<key>placeholder</key>
+				<string>0</string>
+				<key>isNumeric</key>
+				<true/>
+				<key>noAutoCorrect</key>
+				<true/>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+
+<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kSearch</string>
+			<key>label</key>
+			<string>Beta Item Search</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Must restart blockheads app in order for settings to take effect</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Hack Settings</string>
+</dict>
+</plist>

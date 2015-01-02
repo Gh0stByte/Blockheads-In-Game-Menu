@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>face.png</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>key</key>
+			<string>kOn</string>
+			<key>label</key>
+			<string>Enable Inventory Hack</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>BlockheadsInventory</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>5</string>
+			<key>defaults</key>
+			<string>BlockheadsInventory</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>kItems</string>
+			<key>label</key>
+			<string>Inventory Item</string>
+			<key>validTitles</key>
+			<array>
+				<string>hand</string>
+				<string>unknown</string>
+				<string>flint</string>
+				<string>sticks</string>
+				<string>unknown</string>
+				<string>flint axe</string>
+				<string>flint spear</string>
+				<string>flint pickaxe</string>
+				<string>double time</string>
+				<string>unknown</string>
+				<string>time crystal</string>
+				<string>baskets</string>
+				<string>embers</string>
+				<string>charcoal</string>
+				<string>campfires</string>
+				<string>flint spades</string>
+				<string>basic torches</string>
+				<string>unknown</string>
+				<string>blockheads</string>
+				<string>food</string>
+				<string>apples</string>
+				<string>mangos</string>
+				<string>maple seeds</string>
+				<string>prickly pears</string>
+				<string>flint machetes</string>
+				<string>unknown</string>
+				<string>pine cones </string>
+				<string>clay</string>
+				<string>raw dodo meat</string>
+				<string>dodo feathers</string>
+				<string>copper ore</string>
+				<string>iron ore</string>
+				<string>stone axes</string>
+				<string>stone pickaxes</string>
+				<string>copper ingots</string>
+				<string>tin ore</string>
+				<string>tin ingots</string>
+				<string>bronze ingots</string>
+				<string>copper spears</string>
+				<string>tin spades</string>
+				<string>copper arrows</string>
+				<string>copper bow and arrows</string>
+				<string>bronze pickaxes</string>
+				<string>string</string>
+				<string>clay jugs</string>
+				<string>coconuts</string>
+				<string>oil lanterns </string>
+				<string>oil</string>
+				<string>bronze machetes</string>
+				<string>bronze swords </string>
+				<string>coal</string>
+				<string>wooden doors</string>
+				<string>ladders</string>
+				<string>flax seeds</string>
+				<string>flax</string>
+				<string>indian yellow</string>
+				<string>red ochre</string>
+				<string>windows</string>
+				<string>cooked dodo meat</string>
+				<string>oranges</string>
+				<string>sunflower seeds</string>
+				<string>corn</string>
+				<string>wooden beds</string>
+				<string>stone spades </string>
+				<string>iron ingots</string>
+				<string>iron pickaxes</string>
+				<string>iron machetes </string>
+				<string>iron swords </string>
+				<string>trapdoors </string>
+				<string>iron axes</string>
+				<string>carrots</string>
+				<string>gold ingots</string>
+				<string>gold nuggets</string>
+				<string>carrot on sticks</string>
+				<string>rubies</string>
+				<string>emeralds</string>
+				<string>cherries </string>
+				<string>coffee cherries </string>
+				<string>green coffee beans</string>
+				<string>cups</string>
+				<string>coffe</string>
+				<string>roasted coffee beans </string>
+				<string>linen </string>
+				<string>linen pants</string>
+				<string>linen shirts</string>
+				<string>sapphires </string>
+				<string>amethysts</string>
+				<string>diamonds</string>
+				<string>gold spades</string>
+				<string>gold pickaxes</string>
+				<string>dodo eggs</string>
+				<string>steel ingots</string>
+				<string>steel pickaxes</string>
+				<string>amethysts pickaxe</string>
+				<string>sapphire pickaxes</string>
+				<string>emerald pickaxes</string>
+				<string>ruby pickaxes</string>
+				<string>diamond pickaxes</string>
+				<string>ultramarine blue</string>
+				<string>carbon black</string>
+				<string>marble white</string>
+				<string>tin bucket</string>
+				<string>paint</string>
+				<string>paint stripper</string>
+				<string>bucket of water</string>
+				<string>pigment</string>
+				<string>unknown - rainbow?</string>
+				<string>unknown</string>
+				<string>emerald green</string>
+				<string>tyrian purple</string>
+				<string>boat</string>
+				<string>chilli</string>
+				<string>unknown - rainbow pants</string>
+				<string>unknown - ranbow shirt</string>
+				<string>linen cap</string>
+				<string>unknown - rainbow cap</string>
+				<string>linen brimmed hat</string>
+				<string>unknown - rainbow hat</string>
+				<string>copper blue</string>
+				<string>leather</string>
+				<string>fur</string>
+				<string>leather jacket</string>
+				<string>unknown - rainbow jacket</string>
+				<string>leather boots</string>
+				<string>unknown - rainbow boots</string>
+				<string>fur coat</string>
+				<string>fur boots</string>
+				<string>unknown</string>
+				<string>unknown</string>
+				<string>leather pants</string>
+				<string>unknown</string>
+				<string>unknown - arrow (up)</string>
+				<string>camera</string>
+
+				<string>portal</string>
+				<string>amethyst portal</string>
+				<string>saphire portal</string>
+				<string>emerald portal</string>
+				<string>ruby portal</string>
+				<string>diamond portal</string>
+				<string>sunrise hat of fullness</string>
+				<string>sunset skirt of happiness</string>
+				<string>north pole hat of warmth</string>
+				<string>south pole boots of speed</string>
+				<string>kelp</string>
+				<string>amethyst chandelier</string>
+				<string>saphire chandelier</string>
+				<string>emerald chandelier</string>
+				<string>ruby chandelier</string>
+				<string>diamond chandelier</string>
+				<string>steel lanterns</string>
+			</array>
+
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+				<integer>4</integer>
+				<integer>5</integer>
+				<integer>6</integer>
+				<integer>7</integer>
+				<integer>8</integer>
+				<integer>9</integer>
+				<integer>10</integer>
+				<integer>11</integer>
+				<integer>12</integer>
+				<integer>13</integer>
+				<integer>14</integer>
+				<integer>15</integer>
+				<integer>16</integer>
+				<integer>17</integer>
+				<integer>18</integer>
+				<integer>19</integer>
+				<integer>20</integer>
+				<integer>21</integer>
+				<integer>22</integer>
+				<integer>23</integer>
+				<integer>24</integer>
+				<integer>25</integer>
+				<integer>26</integer>
+				<integer>27</integer>
+				<integer>28</integer>
+				<integer>29</integer>
+				<integer>30</integer>
+				<integer>31</integer>
+				<integer>32</integer>
+				<integer>33</integer>
+				<integer>34</integer>
+				<integer>35</integer>
+				<integer>36</integer>
+				<integer>37</integer>
+				<integer>38</integer>
+				<integer>39</integer>
+				<integer>40</integer>
+				<integer>41</integer>
+				<integer>42</integer>
+				<integer>43</integer>
+				<integer>44</integer>
+				<integer>45</integer>
+				<integer>46</integer>
+				<integer>47</integer>
+				<integer>48</integer>
+				<integer>49</integer>
+				<integer>50</integer>
+				<integer>51</integer>
+				<integer>52</integer>
+				<integer>53</integer>
+				<integer>54</integer>
+				<integer>55</integer>
+				<integer>56</integer>
+				<integer>57</integer>
+				<integer>58</integer>
+				<integer>59</integer>
+				<integer>60</integer>
+				<integer>61</integer>
+				<integer>62</integer>
+				<integer>63</integer>
+				<integer>64</integer>
+				<integer>65</integer>
+				<integer>66</integer>
+				<integer>67</integer>
+				<integer>68</integer>
+				<integer>69</integer>
+				<integer>70</integer>
+				<integer>71</integer>
+				<integer>72</integer>
+				<integer>73</integer>
+				<integer>74</integer>
+				<integer>75</integer>
+				<integer>76</integer>
+				<integer>77</integer>
+				<integer>78</integer>
+				<integer>79</integer>
+				<integer>80</integer>
+				<integer>81</integer>
+				<integer>82</integer>
+				<integer>83</integer>
+				<integer>84</integer>
+				<integer>85</integer>
+				<integer>86</integer>
+				<integer>87</integer>
+				<integer>88</integer>
+				<integer>89</integer>
+				<integer>90</integer>
+				<integer>91</integer>
+				<integer>92</integer>
+				<integer>93</integer>
+				<integer>94</integer>
+				<integer>95</integer>
+				<integer>96</integer>
+				<integer>97</integer>
+				<integer>98</integer>
+				<integer>99</integer>
+				<integer>100</integer>
+				<integer>101</integer>
+				<integer>102</integer>
+				<integer>103</integer>
+				<integer>104</integer>
+				<integer>105</integer>
+				<integer>106</integer>
+				<integer>107</integer>
+				<integer>108</integer>
+				<integer>109</integer>
+				<integer>110</integer>
+				<integer>111</integer>
+				<integer>112</integer>
+				<integer>113</integer>
+				<integer>114</integer>
+				<integer>115</integer>
+				<integer>116</integer>
+				<integer>117</integer>
+				<integer>118</integer>
+				<integer>119</integer>
+				<integer>120</integer>
+				<integer>121</integer>
+				<integer>122</integer>
+				<integer>123</integer>
+
+				<integer>124</integer>
+				<integer>125</integer>
+				<integer>126</integer>
+				<integer>127</integer>
+				<integer>128</integer>
+				<integer>129</integer>
+				<integer>130</integer>
+				<integer>131</integer>
+				<integer>132</integer>
+				<integer>133</integer>
+				<integer>134</integer>
+				<integer>135</integer>
+				<integer>136</integer>
+				<integer>137</integer>
+				<integer>138</integer>
+				<integer>139</integer>
+				<integer>140</integer>
+				<integer>141</integer>
+				<integer>142</integer>
+				<integer>143</integer>
+				<integer>144</integer>
+				<integer>145</integer>
+				<integer>146</integer>
+				<integer>147</integer>
+				<integer>148</integer>
+				<integer>149</integer>
+				<integer>150</integer>
+			</array>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Inventory Settings</string>
+</dict>
+</plist>

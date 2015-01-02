@@ -1,0 +1,9 @@
+Package: com.gh0stbyte.blockheadsinventoryhack
+Name: Blockheads Hack Plus
+Depends: mobilesubstrate
+Version: 1.6.2
+Architecture: iphoneos-arm
+Description: Blockheads Hacks with In-Game Menu!
+Maintainer: Gh0stByte
+Author: Gh0stByte
+Section: iOSCheaters
